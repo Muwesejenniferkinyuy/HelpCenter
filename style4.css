@@ -1,0 +1,33 @@
+body{
+    background-color: orangered;
+}
+h4{
+    margin:0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+h3{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+p{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.signinsection{
+ text-align:center;
+}

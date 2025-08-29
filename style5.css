@@ -1,0 +1,62 @@
+body{
+    /* background-color: blue; */
+    justify-items: center;
+    font-family:Arial, Helvetica, sans-serif;
+}
+/* p{
+    background-color: aliceblue;
+    height: 100px;
+    box-shadow: 10px;
+} */
+h1{
+    color: orangered;
+}
+textarea{
+    height: 200px;
+    text-align: center;
+    width: 700px;
+}
+input type{
+    height: 50px;
+    color: orangered;
+    text-align: left;
+}
+header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:small;
+}
+fieldset{
+    height: 590px;
+    width: 900px;
+    background-color: rgb(240, 248, 255);
+    margin-top: 20px;
+
+    
+    /* margin-left: ; */
+}
+.center-content{
+    margin-left: 80px;
+}
+.textbox{
+width: auto;
+height: fit-content;
+border: black;
+}
+
+button{
+width: 420px;
+height: 50px;
+background-color: rgb(251, 119, 93);
+color: white;
+font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-size: 21px;
+border: transparent;
+}
+::placeholder{
+    text-align: left;
+     font-family:Arial, Helvetica, sans-serif;
+
+}
+span{
+    margin-left: 659px;
+}
